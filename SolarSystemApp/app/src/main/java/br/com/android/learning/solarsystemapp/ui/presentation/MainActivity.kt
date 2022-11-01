@@ -1,4 +1,4 @@
-package br.com.android.learning.solarsystemapp
+package br.com.android.learning.solarsystemapp.ui.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
