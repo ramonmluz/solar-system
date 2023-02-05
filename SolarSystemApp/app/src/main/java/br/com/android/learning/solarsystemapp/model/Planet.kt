@@ -1,6 +1,6 @@
 package br.com.android.learning.solarsystemapp.model
 
-class Planet(
+data class Planet(
     val id: String,
     val name: String,
     val type: String,
@@ -9,5 +9,5 @@ class Planet(
     val images: List<String>,
     val searchTags: List<String>,
     val geography: String,
-    val feature: Features,
+    val features: Features,
 )

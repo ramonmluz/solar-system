@@ -1,6 +1,6 @@
 package br.com.android.learning.solarsystemapp.model
 
-class Features(
+data class Features(
     val orbitalPeriod: List<String>,
     val orbitalSpeed: String,
     val rotationDuration: String,
