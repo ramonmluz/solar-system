@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SolarSystemApp</string>
+    <string name="background_solar_system_description">Background Solar System</string>
 </resources>
